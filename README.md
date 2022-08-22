@@ -10,7 +10,7 @@ Clone repositories and link them to github pages
 ```
 git clone git@github.com:veganpalsusto/starter-hugo-research-group.git palsusto-content-hugo
 git submodule update --init --recursive
-git submodule add -f -b main git@github-palsusto:veganpalsusto/veganpalsusto.github.io.git public
+git submodule add -f -b main git@github.com:veganpalsusto/veganpalsusto.github.io.git public
 ```
 
 To run locally
