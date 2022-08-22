@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Palsusto Theme"
+
+[light]
+    # Primary
+    primary = "#8DB5AE"
+
+    # Links
+    link = "#8db5ae"
+    link_hover = "rgb(54, 54, 54)"
+
+    # Menu
+    menu_primary = "#8db5ae"
+    menu_text = "#000000"
+    menu_text_active = "#7C7668"
+    menu_title = "#000000"
+
+    # Home sections
+    home_section_odd = "#ffffff"
+    home_section_even = "#F8F7F2"
+
+#[dark]
