@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  P'al Susto  
+  Pa'l Susto  
   Vegan Bakery
 hero_media: welcome.jpg
 design:
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Pa'l Susto Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+**Pa'l Susto Vegan Bakery** is the first vegan Mexican Bakery in the UK!
