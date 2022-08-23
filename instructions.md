@@ -19,10 +19,10 @@ copy and paste it into a Safari website.
 > Do not close the terminal, as it is generating the website!
 > Press <kbd>Cmd</kbd>+<kbd>H</kbd> to hide it, so you don't close it automatically
 
-## 3. Edit the project
+## 3. Edit the project
 
 Edit the files in the project. When you save the page should reload and show the changes.
 
-## 4. To Exit
+## 4. To Exit
 
 To finish, close the tab with the website, then go back to the open terminal and press <kbd>Ctrl</kbd>+<kbd>C</kbd>
