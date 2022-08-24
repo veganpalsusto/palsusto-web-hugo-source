@@ -9,19 +9,15 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Pa'l susto team
-subtitle:
+title: Concha Menu
+subtitle: Ingredients \& Allergens Advice
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - Originals
+    - Limited Edition
 design:
   show_interests: false
   show_role: false
