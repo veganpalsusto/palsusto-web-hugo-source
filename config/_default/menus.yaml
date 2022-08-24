@@ -4,10 +4,10 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-#  - name: Tour
-#    url: tour
-#    weight: 10
-  - name: Online Orders
+  - name: Tour
+    url: tour
+    weight: 10
+  - name: How to Order
     url: post
     weight: 30
   - name: Conchas Menu
