@@ -7,13 +7,13 @@ main:
   - name: Tour
     url: tour
     weight: 10
-  - name: How to Order
-    url: post
-    weight: 30
-  - name: Conchas Menu
-    url: people
+  - name: Menu
+    url: menu
     weight: 20
-  - name: Pop-up Events
+  - name: How to Order
+    url: how-to-order
+    weight: 20
+  - name: Pop-ups & Events
     url: event
     weight: 40
 #  - name: Publications

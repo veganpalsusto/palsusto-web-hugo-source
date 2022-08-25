@@ -2,7 +2,7 @@
 
 ## DO this only once 
 Install dependencies
-```
+```shell
 brew install hugo golang git
 ```
 
@@ -14,8 +14,8 @@ git submodule add -f -b main git@github.com:veganpalsusto/veganpalsusto.github.i
 ```
 
 To run locally
-```
-hugo server
+```shell
+hugo server --disableFastRender 
 ```
 
 Then open a browser and go to `http://localhost:1313`

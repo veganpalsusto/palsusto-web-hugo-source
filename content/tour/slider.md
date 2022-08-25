@@ -7,7 +7,7 @@ headless: true
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: '400px'
-  is_fullscreen: false
+  is_fullscreen: true
   # Automatically transition through slides?
   loop: false
   # Duration of transition between slides (in ms)
@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: Delivery dates
-      content: Take a look on Instagram
+    - title: Welcome! 
+      content: Thank you for your visit! 
       align: center
       background:
         position: right
@@ -26,26 +26,25 @@ content:
       link:
         icon: instagram
         icon_pack: fab
-        text: Go to Instagram
+        text: Follow us
         url: www.instagram.com/vegan.palsusto
 
-    - title: Message us your order
-      content: 'via Instagram DM or email'
+    - title: Order from us
+      content: Learn how 
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-
       link:
         icon: envelope
         icon_pack: fas
         text: Contact Us
         url: ../contact/
 
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title: Check Our Menu
+      content: 'Learn About Ingredients and Allergens!'
       align: right
       background:
         position: center
@@ -55,6 +54,6 @@ content:
       link:
         icon: graduation-cap
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Menu 
+        url: ../menu/
 ---
