@@ -19,3 +19,12 @@ hugo server --disableFastRender
 ```
 
 Then open a browser and go to `http://localhost:1313`
+
+## Hugo server error
+
+Sometimes you get some error, according to [this website](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/#error-failed-to-resolve-output-format), 
+you can try to do the following on your mac: 
+
+```
+sudo rm -rf $TMPDIR/hugo_cache/
+```
