@@ -48,7 +48,18 @@ user_groups:
   - Limited Edition
 ---
 
-### Ingredients:
+Conchas - translates to shells - are the most famous Mexican sweet bread rolls.
 
-\* May have an adverse effect on activity and attention in some children. 
+This roll is topped with a colourful vanilla sugar shell pattern.
+
 ### Allergen Advice:
+For allergens, including cereals containing gluten, see ingredients in **bold**.
+
+Our kitchen handles: gluten, nuts, peanuts, sesame, celery, mustard and soybeans.
+
+If you have a severe allergy to nuts or any other main allergen, we recommend you not to have our products.
+
+### Ingredients:
+**Wheat** Flour (**Wheat** Flour, Calcium Carbonate, Iron, Niacin, Thiamin), **Oat** Milk (Water, **Oats**, Anti-caking Agents (Tricalcium Phosphate, Calcium Carbonate), Rapeseed Oil, Salt), Plant Oils (Palm, Sunflower, Rapeseed), Sweet Potato, Sugar, Water, **Wheat** Gluten, Sea Salt, Dried Yeast, Fava Beans Preparation, Vanilla (Water, Carrier (Propylene Glycol), Flavouring, Colour (Plain Caramel)), Emulsifiers (Sunflower Lecithins, Sorbitan Monostearate), Flavouring, Stabiliser (Calcium Sulphate), Flour Treatment Agents (Ascorbic Acid, Alpha-Amylase), Salt, **Wheat** Starch, Vegetable Glycerine, Silicone Dioxide, Propylene glycol, Colours: E102, E104, E110, E122, E124 and E129.
+
+This product contains food colouring that may include the colours E102, E104, E110, E122, E124 and E129 - which may have an adverse effect on activity and attention in some children.

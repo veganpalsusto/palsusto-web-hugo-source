@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: How to Order 
+title: How to Order
 subtitle: Just a few simple instructions
 
 #content:
@@ -21,25 +21,22 @@ subtitle: Just a few simple instructions
 #  show_role: false
 #  show_social: false
 ---
+## 1. Delivery dates
+Orders are open as soon as pop-up's are announced on [Instagram](www.instagram.com/vegan.palsusto). If you do not have Instagram, [email us](../contact/) for delivery dates.
 
-Orders are open as soon as pop-up's are announced
+## 2. Message us with your order (Instagram or Email)
+* [X] Name
+* [X] Amount (Box of 5 or 10)
+* [X] Flavour: Vanilla/Cacao/Mixed
+* [X] Delivery or pick-up (E3 or E12)
+* [X] Address for delivery option
 
-DM us your order with:
-* [X] Amount of Conchas
-* [X] Delivery or pick-up
+> **Orders are taken until we hit our limit!**
 
-**We only take orders in multiples of 5**
-  
-> Orders are taken until we hit our limit! 
+## 3. Payment
+Once receiving your order request, we will share the payment details.
 
-## Payment 
-<!-- We accept (payment type). -->
-
-To confirm your order, you must send £x, either through (payment method).
-
-Your £x deposit is non-refundable and will go towards your balance due on the day of pick-up.
-
-**Orders are not confirmed until £x deposit is sent.**
+> **Orders are not confirmed until payment has been received.**
 
 # Thank you for your support!
 

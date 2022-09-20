@@ -20,6 +20,10 @@ design:
 
 <br>
 
-**Pa'l Susto Vegan Bakery** is the first vegan Mexican Bakery in the UK!
+The first Vegan Mexican Home Bakery in the UK!
 
-Open in 2022, Pa'l Susto's mission is to bring Mexican baked goods to the UK, that is also **vegan-friendly**!
+Our mission is to share Mexican baked goods with the UK, that is also **vegan-friendly**!
+
+My Mexican husband misses all things Mexican & there isn’t a place selling vegan pan dulce like **conchas** or festive bakes like **Pan de Muerto** & **Rosca de Reyes**!
+
+If you’ve never tried Mexican Pan Dulce, order some & give it a try with coffee, hot chocolate or a glass of (plant-based) milk.
