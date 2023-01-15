@@ -11,7 +11,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Originals
+  - name: Classics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,9 +45,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Originals
+  - Classics
 ---
-Conchas - translates to shells - are the most famous Mexican sweet bread rolls.
+
 The roll is topped with a sugar shell-like pattern.
 
 ### Allergen Advice:
@@ -57,5 +57,4 @@ Our kitchen handles: gluten, nuts, peanuts, sesame, celery, mustard and soybeans
 
 If you have a severe allergy to nuts or any other main allergen, we recommend you not to have our products.
 
-### Ingredients:
-**Wheat** Flour (**Wheat** Flour, Calcium Carbonate, Iron, Niacin, Thiamin), **Oat** Milk (Water, **Oats**, Anti-caking Agents (Tricalcium Phosphate, Calcium Carbonate), Rapeseed Oil, Salt), Plant Oils (Palm, Sunflower, Rapeseed), Sweet Potato, Sugar, Water, **Wheat** Gluten, Sea Salt, Dried Yeast, Fava Beans Preparation, Vanilla (Water, Carrier (Propylene Glycol), Flavouring, Colour (Plain Caramel)), Emulsifiers (Sunflower Lecithins, Sorbitan Monostearate), Flavouring, Stabiliser (Calcium Sulphate), Flour Treatment Agents (Ascorbic Acid, Alpha-Amylase), Salt, **Wheat** Starch.
+> INGREDIENTS: **Wheat** Flour (**Wheat** Flour, Calcium Carbonate, Iron, Niacin, Thiamin), **Oat** Milk (Water, **Oats**, Anti-caking Agents (Tricalcium Phosphate, Calcium Carbonate), Rapeseed Oil, Salt), Plant Oils (Palm, Sunflower, Rapeseed), Sweet Potato, Sugar, Water, **Wheat** Gluten, Sea Salt, Dried Yeast, Fava Beans Preparation, Vanilla (Water, Carrier (Propylene Glycol), Flavouring, Colour (Plain Caramel)), Emulsifiers (Sunflower Lecithins, Sorbitan Monostearate), Flavouring, Stabiliser (Calcium Sulphate), Flour Treatment Agents (Ascorbic Acid, Alpha-Amylase), Salt, **Wheat** Starch.

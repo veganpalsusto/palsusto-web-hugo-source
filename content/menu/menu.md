@@ -17,10 +17,16 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Originals
+    - Classics
     - Limited Edition
 design:
   show_interests: false
   show_role: false
   show_social: false
 ---
+<br> 
+
+_Conchas_ --translates to shells-- are the most famous Mexican sweet bread rolls. 
+
+We offer two **original** flavours: cacao and vanilla. 
+Sometimes we do some **limited** editions with lovely decorations. 

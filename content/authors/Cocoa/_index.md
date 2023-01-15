@@ -11,14 +11,14 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Originals
+  - name: Classics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 # Add bio
 
-interests:
+interests: 
 
 education:
 
@@ -45,10 +45,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Originals
+  - Classics
 ---
-
-Conchas - translates to shells - are the most famous Mexican sweet bread rolls.
 
 This roll is topped with a cocao sugar shell pattern.
 

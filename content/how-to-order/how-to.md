@@ -22,21 +22,27 @@ subtitle: Just a few simple instructions
 #  show_social: false
 ---
 ## 1. Delivery dates
-Orders are open as soon as pop-up's are announced on [Instagram](www.instagram.com/vegan.palsusto). If you do not have Instagram, [email us](../contact/) for delivery dates.
+Orders are open as soon as concha days are announced on [Instagram](https://www.instagram.com/vegan.palsustoc). If you do not have Instagram, [email us](../contact/) for delivery dates.
 
 ## 2. Message us with your order (Instagram or Email)
-* [X] Name
-* [X] Amount (Box of 5 or 10)
-* [X] Flavour: Vanilla/Cacao/Mixed
-* [X] Delivery or pick-up (E3 or E12)
-* [X] Address for delivery option
+* [X] Product & Quantity
+* [X] Your details: Name, address, email & contact
+* [X] Choose concha delivery date
 
 > **Orders are taken until we hit our limit!**
 
 ## 3. Payment
-Once receiving your order request, we will share the payment details.
+After receiving your order request, we will share the payment details.
 
-> **Orders are not confirmed until payment has been received.**
+> **Once we've received your payment, your order is confirmed.**
+
+## 4. Delivery methods
+Currently via Royal Mail Special Delivery Guaranteed by 1pm.
+
+Your order will be freshly produced, packaged & sent to arrive by 1pm on your selected concha day!
+
+> **Want to collect your order?** 
+> Ask us about collection options.
 
 # Thank you for your support!
 

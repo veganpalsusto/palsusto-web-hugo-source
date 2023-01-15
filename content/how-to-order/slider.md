@@ -27,7 +27,7 @@ content:
         icon: instagram
         icon_pack: fab
         text: Follow us 
-        url: www.instagram.com/vegan.palsusto
+        url: 'https://www.instagram.com/vegan.palsusto'
 
     - title: Message us your order
       content: 'via email...'
@@ -56,6 +56,6 @@ content:
         icon: instagram 
         icon_pack: fab
         text: DM us 
-        url: www.instagram.com/vegan.palsusto 
+        url: 'https://www.instagram.com/vegan.palsusto' 
 
 ---

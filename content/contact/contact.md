@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: 
 
 content:
   # Contact (edit or remove options as required)
@@ -48,19 +48,22 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: true
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 If you would like to order some Pan Dulce, email us!
 Don't hesitate to contact us with any comments or questions.
+
+Our [How to Order](../how-to-order/) page has all the information 
+we need from you.
 
 We're happy to help!

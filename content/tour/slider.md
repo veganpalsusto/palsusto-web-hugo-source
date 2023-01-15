@@ -15,19 +15,19 @@ design:
 
 content:
   slides:
-    - title: Welcome! 
+    - title: Welcome to out bakery! 
       content: Thank you for your visit! 
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: welcome.jpg
       link:
         icon: instagram
         icon_pack: fab
         text: Follow us
-        url: www.instagram.com/vegan.palsusto
+        url: 'https://www.instagram.com/vegan.palsusto'
 
     - title: Order from us
       content: Learn how 
@@ -36,7 +36,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: coffee.jpg
       link:
         icon: envelope
         icon_pack: fas
@@ -50,9 +50,9 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: contact.jpg
       link:
-        icon: graduation-cap
+        icon: utensils
         icon_pack: fas
         text: Menu 
         url: ../menu/

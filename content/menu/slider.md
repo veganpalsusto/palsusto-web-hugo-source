@@ -15,33 +15,38 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Menu
+      content: Take a look at what we're baking...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: welcome.jpg
+      link:
+        icon: envelope
+        icon_pack: fas
+        text: How to order
+        url: ../how-to-order/
+    - title: Classics 
+      content: 'We sell classic cocoa and vanilla conchas...'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: coffee.jpg
+    - title: Limited Edition
+      content: '...or Limited Edition with specialised designs and colours'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        media: coders.jpg
+      # link:
+      #   icon: graduation-cap
+      #   icon_pack: fas
+      #   text: Join Us
+      #   url: ../contact/
 ---
