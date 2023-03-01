@@ -9,12 +9,12 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
+#es:
+#  languageCode: es
+#  contentDir: content/es
+#  title: Vegan Pa'l Susto. 
 #  params:
-#    description: Site description in Chinese...
+#    description: La primera panadería vegana en Reino Unido!
 #  menu:
 #    main:
 #      - name: 传

@@ -1,4 +1,4 @@
-<!-- ---
+---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 3
-  columns: '1'
---- -->
+  view: 2
+  columns: '2'
+---
