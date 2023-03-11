@@ -28,3 +28,16 @@ you can try to do the following on your mac:
 ```
 sudo rm -rf $TMPDIR/hugo_cache/
 ```
+
+## Deploy website 
+First, build it to the `public` folder: 
+
+```shell
+hugo --minify
+```
+
+Then, go to the `public` folder and push the changes to the repository: 
+```shell
+cd public
+git push HEAD:main
+```

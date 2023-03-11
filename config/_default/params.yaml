@@ -15,8 +15,8 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
+    site_type: LocalBusiness
+    local_business_type: FoodEstablishment
     org_name: 'Vegan Pal Susto'
     description: 'The first vegan Mexican bakery in the UK.'
     twitter: 
@@ -24,7 +24,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'E2hJvMzq09fOTVtIjcusry4GnyIaI3r9dopgCLUL8xU'
     baidu: ''
 
 # Site header
