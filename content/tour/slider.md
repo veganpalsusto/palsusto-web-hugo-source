@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: Welcome to out bakery! 
+    - title: Welcome to our bakery! 
       content: Thank you for your visit! 
       align: center
       background:
@@ -29,7 +29,7 @@ content:
         text: Follow us
         url: 'https://www.instagram.com/vegan.palsusto'
 
-    - title: Order from us
+    - title: Order from us vegan conchas (and soon more!)
       content: Learn how 
       align: center
       background:

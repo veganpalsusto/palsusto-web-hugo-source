@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Concha Menu
+title: Vegan Concha Menu
 subtitle: Ingredients \& Allergens Advice
 
 content:
@@ -28,5 +28,5 @@ design:
 
 _Conchas_ --translates to shells-- are the most famous Mexican sweet bread rolls. 
 
-We offer two **original** flavours: cacao and vanilla. 
+We offer two **original** flavours of vegan conchas: cacao and vanilla. 
 Sometimes we do some **limited** editions with lovely decorations. 

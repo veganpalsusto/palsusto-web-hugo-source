@@ -6,7 +6,7 @@ title: Cacao
 superuser: false
 
 # Role/position
-role:
+role: 
 #Professor of Artificial Intelligence
 
 # Organizations/Affiliations
@@ -48,7 +48,7 @@ user_groups:
   - Classics
 ---
 
-This roll is topped with a cocao sugar shell pattern.
+These vegan conchas is topped with a cocao sugar shell pattern.
 
 ### Allergen Advice:
 For allergens, including cereals containing gluten, see ingredients in **bold**.

@@ -48,7 +48,8 @@ user_groups:
   - Limited Edition
 ---
 
-This roll is topped with a colourful vanilla sugar shell pattern. 
+These vegan conchas are topped with a colourful vanilla sugar shell pattern. 
+We release them on special occasions or when Zaibaa, our baker, is feeling extra creative! 
 
 >Be on the lookout for this special pattern to appear! 
 

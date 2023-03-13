@@ -22,7 +22,7 @@ design:
 
 The first Vegan Mexican Home Bakery in the UK!
 
-Our mission is to share Mexican baked goods with the UK, that is also **vegan-friendly**!
+Our mission is to share Mexican baked goods with the UK, that is also **vegan-friendly**! Vegan conchas are our speciality. 
 
 My Mexican husband misses all things Mexican & there isn’t a place selling vegan pan dulce like **conchas** or festive bakes like **Pan de Muerto** & **Rosca de Reyes**!
 

@@ -48,7 +48,7 @@ user_groups:
   - Classics
 ---
 
-The roll is topped with a sugar shell-like pattern.
+These vegan conchas are topped with a sugar shell-like pattern.
 
 ### Allergen Advice:
 For allergens, including cereals containing gluten, see ingredients in **bold**.

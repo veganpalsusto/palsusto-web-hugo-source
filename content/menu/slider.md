@@ -29,7 +29,7 @@ content:
         text: How to order
         url: ../how-to-order/
     - title: Classics 
-      content: 'We sell classic cocoa and vanilla conchas...'
+      content: 'We sell classic cocoa and vanilla vegan conchas...'
       align: left
       background:
         position: center
