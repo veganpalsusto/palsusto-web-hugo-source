@@ -46,6 +46,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Classics
+
+tags: 
+  - Vegan Conchas UK
+  - Vanilla Conchas
+  - Vegan Mexican Bakery
 ---
 
 These vegan conchas are topped with a sugar shell-like pattern.

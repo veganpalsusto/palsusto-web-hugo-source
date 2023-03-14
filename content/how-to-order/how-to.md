@@ -20,6 +20,10 @@ subtitle: Just a few simple instructions
 #  show_interests: false
 #  show_role: false
 #  show_social: false
+
+tags: 
+  - Vegan Conchas UK
+  - Vegan Mexican Bakery
 ---
 ## 1. Delivery dates
 Orders are open as soon as concha days are announced on [Instagram](https://www.instagram.com/vegan.palsustoc). If you do not have Instagram, [email us](../contact/) for delivery dates.

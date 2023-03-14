@@ -46,6 +46,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Limited Edition
+
+tags: 
+  - Vegan Conchas UK
+  - Limited Edition Concha
+  - Vegan Mexican Bakery
 ---
 
 These vegan conchas are topped with a colourful vanilla sugar shell pattern. 

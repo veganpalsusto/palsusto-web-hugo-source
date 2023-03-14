@@ -46,9 +46,15 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Classics
+
+tags: 
+  - Vegan Conchas UK
+  - Chocolate Conchas
+  - Vegan Mexican Bakery
+
 ---
 
-These vegan conchas is topped with a cocao sugar shell pattern.
+These vegan conchas is topped with a cacao sugar shell pattern.
 
 ### Allergen Advice:
 For allergens, including cereals containing gluten, see ingredients in **bold**.

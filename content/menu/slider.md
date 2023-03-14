@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: welcome.jpg
+        media: welcome-buy-vegan-conchas-in-london-and-uk.jpg
       link:
         icon: envelope
         icon_pack: fas
@@ -35,7 +35,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: coffee.jpg
+        media: coffee-with-vegan-conchas-uk.jpg
     - title: Limited Edition
       content: '...or Limited Edition with specialised designs and colours'
       align: right
@@ -43,7 +43,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: coders.jpg
+        media: vegan-concha-stack.jpg
       # link:
       #   icon: graduation-cap
       #   icon_pack: fas

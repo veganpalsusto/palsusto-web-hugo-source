@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: welcome.jpg
+        media: welcome-buy-vegan-conchas-in-london-and-uk.jpg
       link:
         icon: instagram
         icon_pack: fab
@@ -36,7 +36,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: coffee.jpg
+        media: coffee-with-vegan-conchas-uk.jpg
       link:
         icon: envelope
         icon_pack: fas
@@ -50,7 +50,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: contact.jpg
+        media: contact-us-for-vegan-conchas-in-the-uk.jpg
       link:
         icon: utensils
         icon_pack: fas

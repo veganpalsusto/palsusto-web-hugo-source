@@ -16,7 +16,7 @@ image:
   caption: 
   focal_point: Smart
 
-share: false
+share: true
 
 # links:
 #   - icon: file
@@ -27,6 +27,11 @@ share: false
 # url_pdf: 'https://github.com/CemrgAppDevelopers/resources/blob/main/sop/CemrgApp-AtrialScarProcessing.pdf'
 # url_slides: ''
 # url_video: 'https://www.youtube.com/watch?v=JtbA0wBcqd8'
+
+tags: 
+  - Vegan Conchas UK
+  - Vegan Mexican Bakery
+  - Vegan Choice Awards
 
 ---
 

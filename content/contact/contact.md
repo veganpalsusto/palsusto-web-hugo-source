@@ -58,6 +58,10 @@ content:
 
 design:
   columns: '2'
+
+tags: 
+  - Vegan Conchas UK
+  - Vegan Mexican Bakery
 ---
 
 If you would like to order some Pan Dulce, email us!
