@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Pa'l Susto  
   Vegan Bakery
-hero_media: welcome-to-vegan-pal-susto-first-mexican-vegan-bakery-in-the-uk.jpg
+hero_media: welcome-to-vegan-pal-susto-first-mexican-vegan-bakery-uk.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
