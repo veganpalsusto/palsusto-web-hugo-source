@@ -35,6 +35,7 @@ First, build it to the `public` folder:
 ```shell
 hugo --minify
 ```
+> ATTENTION! Always use `minify`
 
 Then, go to the `public` folder and push the changes to the repository: 
 ```shell
