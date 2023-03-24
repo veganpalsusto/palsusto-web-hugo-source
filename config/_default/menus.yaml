@@ -7,6 +7,9 @@ main:
   - name: Tour
     url: tour
     weight: 10
+  - name: Gallery
+    url: gallery
+    weight: 11
   - name: Menu
     url: menu
     weight: 20

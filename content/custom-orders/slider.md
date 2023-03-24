@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: We have custom orders available! 
+    - title: We have custom orders available
       content: Slide to see prices and configurations for direct customers.
       align: center
       background:
@@ -32,7 +32,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#555'
         brightness: 0.9
         media: custom-concha-price-01.png
@@ -40,7 +40,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#555'
         brightness: 0.9
         media: custom-concha-price-02.png
@@ -48,7 +48,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right
         color: '#555'
         brightness: 0.9
         media: custom-concha-price-03.png
@@ -56,7 +56,7 @@ content:
       content: 
       align: center
       background:
-        position: center
+        position: right 
         color: '#555'
         brightness: 0.9
         media: custom-concha-price-04.png
