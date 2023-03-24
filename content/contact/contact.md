@@ -20,7 +20,7 @@ content:
   social:
     - icon: envelope
       icon_pack: fas
-      link: 'mailto:test@example.org'
+      link: 'mailto:info@palsusto.co.uk'
 
   #phone: 888 888 88 88
   #address:

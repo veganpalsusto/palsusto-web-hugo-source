@@ -12,7 +12,10 @@ main:
     weight: 20
   - name: How to Order
     url: how-to-order
-    weight: 20
+    weight: 21
+  - name: Custom Orders
+    url: custom-orders
+    weight: 22
   # - name: Pop-ups & Events
   #   url: event
   #   weight: 40

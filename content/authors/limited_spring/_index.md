@@ -1,35 +1,47 @@
 ---
 # Display name
-title: Pink (Coloured)
+title: "Spring"
+
+# Username (this should match the folder name and the name on publications)
+authors:
+- "Spring"
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position
+# Role/position (e.g., Professor of Artificial Intelligence)
 role:
-#Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Limited Edition
-    url: ''
+- name: Limited Edition
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-# Add bio
+bio: 
 
+# List each interest with a dash
 interests:
 
 education:
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/USERNAME
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=PERSON-ID
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -37,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -46,6 +58,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Limited Edition
+  # - Seasonal
 
 tags: 
   - Vegan Conchas UK
@@ -53,10 +66,9 @@ tags:
   - Vegan Mexican Bakery
 ---
 
-These vegan conchas are topped with a colourful vanilla sugar shell pattern. 
-The image shows our **pink** with a flower pattern, but we make other colours and patterns.
-
-We release them on special occasions or when Zaibaa, our baker, is feeling extra creative! 
+These vegan conchas are topped with a colourful vanilla sugar shell pattern 
+and a delicate flower decoration. 
+We released it on Spring, bringin some colour to our boxes!  
 
 >Be on the lookout for this special pattern to appear! 
 

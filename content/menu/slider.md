@@ -28,6 +28,19 @@ content:
         icon_pack: fas
         text: How to order
         url: ../how-to-order/
+    - title: Custom Orders
+      content: Want something special, specific, or order a large amount?
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.7 
+        media: vegan-concha-custom.jpg
+      link:
+        icon: star
+        icon_pack: fas
+        text: Let us help
+        url: ../custom-orders/
     - title: Classics 
       content: 'We sell classic cocoa and vanilla vegan conchas...'
       align: left
