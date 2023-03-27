@@ -2,22 +2,22 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 21
+weight: 20
 
-title: Latest News
-subtitle:
+title: Pop-ups & Events
+subtitle: Upcoming pop-ups and events!
 
 content:
-  count: 5
+  count: 1
   filters:
-    author: ''
+    author: 
     category: ''
     exclude_featured: false
     publication_type: ''
     tag: ''
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
   view: 2
   columns: '2'

@@ -19,9 +19,9 @@ main:
   - name: Custom Orders
     url: custom-orders
     weight: 22
-  # - name: Pop-ups & Events
-  #   url: event
-  #   weight: 40
+  - name: Pop-ups & Events
+    url: event
+    weight: 40
   - name: News
     url: post
     weight: 50

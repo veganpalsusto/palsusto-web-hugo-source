@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pink (Coloured)
+title: Coloured
 
 # Is this the primary user of the site?
 superuser: true
