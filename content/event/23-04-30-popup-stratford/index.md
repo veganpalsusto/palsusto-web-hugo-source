@@ -4,7 +4,9 @@ title: Pop-up at Westfield Stratford
 event: Pop-up at Westfield Stratford
 event_url: 
 
-location: Westfield Stratford (exact location TBC)
+location: |
+    Westfield Stratford 
+    (Outside H&M, G)
 address:
   street: Montfichet Rd
   city: London
@@ -60,6 +62,8 @@ Vegan Pa'l Susto is thrilled to announce our first-ever pop-up shop at Westfield
 Join us on **Sunday, 30th April, 2023** for a delicious day of vegan conchas and a new treat!
 That's right, for the first time ever, you can enjoy our [award winning](../../post/23-03-01-palsusto-vca) conchas directly from us. 
 
+**We will be located outside H&M on the Ground Floor.**
+
 We have two special promos lined up. First, anyone will be able to pre-order their conchas at the standard price. 
 And for our beloved customers, we have an exciting opportunity for you to try our newest product, 
 the _marranito_, for free! 
@@ -68,6 +72,7 @@ the _marranito_, for free!
 Don't miss out on this chance to indulge in some of the most delicious and unique 
 mexican vegan pan dulce around. 
 
+
 **We are excited to share our unique and delicious vegan pastries with you and look forward to seeing you at Westfield Stratford!**
 
 
@@ -75,5 +80,6 @@ mexican vegan pan dulce around.
 + We are offering a special promotion for preorders at the standard price of £17.70 for a box of 5, 
 which means you can secure your delicious conchas ahead of time and avoid the queue on the day. 
 > Pre-orders close on the 20th of April.
-+ Additionally, we have an exclusive offer for our existing customers to taste our newest product, the marranito, completely free of charge. 
++ Additionally, we have an exclusive offer for our existing customers to taste our newest product, the _marranito_, 
+completely free of charge when purchasing at the popup or via pre-order. 
 > To qualify for this promotion, you must be a current customer and provide proof of purchase.
