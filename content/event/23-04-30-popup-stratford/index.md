@@ -33,7 +33,7 @@ tags: ['Vegan conchas UK', 'Vegan Conchas London', 'Vegan conchas pop up']
 featured: true
 
 image:
-  caption: 'Image credit: [**JA**](https://instagram.com/alonso.jasl)'
+  caption: 'Image credit: [**JA**](https://instagram.com/vegan.palsusto)'
   focal_point: center
 
 url_code: ''
@@ -77,9 +77,9 @@ mexican vegan pan dulce around.
 
 
 ## Details of special promotions
-+ We are offering a special promotion for preorders at the standard price of £17.70 for a box of 5, 
-which means you can secure your delicious conchas ahead of time and avoid the queue on the day. 
-> Pre-orders close on the 20th of April.
++ We are offering a special promotion for preorders at our standard prices: £17.70 for 5 and £32.00 for 10 conchas, 
+which means you can secure your delicious conchas ahead of time and avoid the queue on the day.
+> Pre-orders close on Wednesday, 26th of April.
 + Additionally, we have an exclusive offer for our existing customers to taste our newest product, the _marranito_, 
 completely free of charge when purchasing at the popup or via pre-order. 
 > To qualify for this promotion, you must be a current customer and provide proof of purchase.
