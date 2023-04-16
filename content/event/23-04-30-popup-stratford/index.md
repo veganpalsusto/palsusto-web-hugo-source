@@ -26,8 +26,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-03-25T00:00:00Z'
 
-authors: [Cocoa, Vanilla, limited_]
-tags: ['Vegan conchas UK', 'Vegan Conchas London', 'Vegan conchas pop up']
+authors: [Cocoa, Vanilla, limited_, Marranitos]
+tags: ['Vegan conchas UK', 'Vegan Conchas London', 'Vegan conchas pop up', Vegan Pan Dulce]
 
 # Is this a featured talk? (true/false)
 featured: true

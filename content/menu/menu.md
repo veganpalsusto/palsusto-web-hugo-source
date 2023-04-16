@@ -20,6 +20,7 @@ content:
     - Classics
     - Limited Edition
     - Seasonal
+    - New
 design:
   show_interests: false
   show_role: false
@@ -32,7 +33,8 @@ _Conchas_ --translates to shells-- are the most famous Mexican sweet bread rolls
 We offer our two [award winning](https://veganpalsusto.co.uk/post/23-03-01-palsusto-vca/) 
 **classic** flavours of vegan conchas: cacao and vanilla. 
 
+We also offer the _Marranitos_, a type of pan dulce is reminiscent of gingerbread.
+
 Sometimes we do some **limited** editions with lovely decorations, they will appear 
 at special occasions, or some holidays.
-
 Be on the lookout for these!
