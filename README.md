@@ -40,5 +40,5 @@ hugo --minify
 Then, go to the `public` folder and push the changes to the repository: 
 ```shell
 cd public
-git push HEAD:main
+git push origin HEAD:main
 ```

@@ -15,12 +15,12 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: info@palsusto.co.uk
+  email: info@veganpalsusto.co.uk
 
   social:
     - icon: envelope
       icon_pack: fas
-      link: 'mailto:info@palsusto.co.uk'
+      link: 'mailto:info@veganpalsusto.co.uk'
 
   #phone: 888 888 88 88
   #address:
