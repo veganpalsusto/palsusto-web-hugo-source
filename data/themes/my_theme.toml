@@ -19,3 +19,20 @@ name = "Palsusto Theme"
     home_section_odd = "#ffffff"
     home_section_even = "#F8F7F2"
 
+[dark]
+    # Primary
+    primary = "#8DB5AE"
+
+    # Links
+    link = "#8DB5AE"
+    link_hover = "#364636"
+
+    # Menu
+    menu_primary = "#8DB5AE"
+    menu_text = "#000000"
+    menu_text_active = "#7C7668"
+    menu_title = "#000000"
+
+    # Home sections
+    home_section_odd = "#2B2B2B"
+    home_section_even = "#1E1E1E"
