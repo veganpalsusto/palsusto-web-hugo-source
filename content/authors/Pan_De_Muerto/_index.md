@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Marranitos
+title: Pan de Muerto
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,11 +11,12 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Classics
+  - name: Seasonal
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
+# Add bio
 
 interests: 
 
@@ -29,6 +30,7 @@ social:
  - icon: award
    icon_pack: fas
    link: 'https://veganpalsusto.co.uk/post/23-10-05-palsusto-vca/'
+# Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -43,19 +45,19 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Classics
+  - Seasonal
 
 tags: 
-  - Vegan Pan Dulce UK
-  - Pan Dulce
+  - Vegan Pan de Muerto UK
+  - Pan de Muerto
   - Vegan Mexican Bakery
 
 ---
 
-These Mexican piggies are a type of pan dulce is reminiscent of gingerbread. 
-Spiced and sweetened with **Piloncillo** (unrefined sugar).
+Discover the heart of the _Day of the Dead_ celebrations with our zesty, symbolic orange flavoured bread.
+Traditionally placed on altars to honour and remember loved ones. 
 
-They’re somewhere between cake and a cookie, not hard but not soft either.
+> Sold during the months of October/November. 
 
 ### Allergen Advice:
 For allergens, including cereals containing gluten, see ingredients in **bold**.
@@ -64,4 +66,4 @@ Our kitchen handles: gluten, nuts, peanuts, sesame, celery, mustard and soybeans
 
 If you have a severe allergy to nuts or any other main allergen, we recommend you not to have our products.
 
-> INGREDIENTS: **Wheat** Flour (**Wheat** Flour, Calcium Carbonate, Iron, Niacin, Thiamin), Plant Oils (Palm, Sunflower, Rapeseed), Cane Syrup, Water, **Wheat** Gluten, Fava Beans Preparation, Flavouring, Colour (Plain Caramel)), Emulsifiers (Sunflower Lecithins, Sorbitan Monostearate), Flavouring, Stabiliser (Calcium Sulphate), Flour Treatment Agents (Ascorbic Acid, Alpha-Amylase), **Wheat** Starch, **Oat** Milk (Water, **Oats**, Anti-caking Agents (Tricalcium Phosphate, Calcium Carbonate), Rapeseed Oil, Salt).
+> INGREDIENTS: **Wheat** Flour (**Wheat** Flour, Calcium Carbonate, Iron, Niacin, Thiamin), **Oat** Milk (Water, **Oats**, Anti-caking Agents (Tricalcium Phosphate, Calcium Carbonate), Rapeseed Oil, Salt), Plant Oils (Palm, Sunflower, Rapeseed), Sweet Potato, Sugar, Water, **Wheat** Gluten, Sea Salt, Dried Yeast, Organic Raw Cacao, Fava Beans Preparation, Emulsifiers (Sunflower Lecithins, Sorbitan Monostearate),  Flavouring, Stabiliser (Calcium Sulphate), Flour Treatment Agents (Ascorbic Acid, Alpha-Amylase), Salt, **Wheat** Starch.

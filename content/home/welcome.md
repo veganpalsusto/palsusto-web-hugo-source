@@ -24,10 +24,12 @@ tags:
 
 <br>
 
-The first Vegan Mexican Home Bakery in the UK!
+Introducing the UK's first vegan Mexican home bakery, crafting authentic pan dulce (sweet bread). Discover vegan award-winning Conchas, Marranitos, Pan de Muerto, and Rosca de Reyes, reimagined for vegan indulgence. Vegan conchas are our speciality. 
 
-Our mission is to share Mexican baked goods with the UK, that is also **vegan-friendly**! Vegan conchas are our speciality. 
+Our mission is to share Mexican baked goods with the UK, which are also **vegan-friendly**! 
 
-My Mexican husband misses all things Mexican & there isn’t a place selling vegan pan dulce like **conchas** or festive bakes like **Pan de Muerto** & **Rosca de Reyes**!
+Founded by a passionate vegan couple, our online bakery offers monthly UK postal and London collection. Also available for large events or custom orders. Enjoy the richness of Mexican flavours, crafted without animal products.
+
+<!-- _My Mexican husband misses all things Mexican & there isn’t a place selling vegan pan dulce like **conchas** or festive bakes like **Pan de Muerto** & **Rosca de Reyes**!_ -->
 
 If you’ve never tried Mexican Pan Dulce, order some & give it a try with coffee, hot chocolate or a glass of (plant-based) milk.
