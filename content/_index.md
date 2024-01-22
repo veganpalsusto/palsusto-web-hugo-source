@@ -5,28 +5,28 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Open for Orders!
-      image:
-        filename: orders.jpg
-      text: |-
-        <br> 
+  # - block: hero
+  #   content:
+  #     title: Open for Orders!
+  #     image:
+  #       filename: orders.jpg
+  #     text: |-
+  #       <br> 
 
-        **January dates** are open for receiving orders. Do not miss out on yours. 
+  #       **January dates** are open for receiving orders. Do not miss out on yours. 
         
-        **London Collection:** 22nd, 23rd January
+  #       **London Collection:** 22nd, 23rd January
 
-        **UK Delivery:** 23rd January
+  #       **UK Delivery:** 23rd January
 
-        <br>
+  #       <br>
 
-        {{% cta cta_link="./contact/" cta_text="Contact page →" %}}
-    design:
-      background:
-        gradient_end: '#607D78' # '#7C5A50'
-        gradient_start: '#A9C9C4' # '#AACCC3'
-        text_color_light: false
+  #       {{% cta cta_link="./contact/" cta_text="Contact page →" %}}
+  #   design:
+  #     background:
+  #       gradient_end: '#607D78' # '#7C5A50'
+  #       gradient_start: '#A9C9C4' # '#AACCC3'
+  #       text_color_light: false
 
   - block: hero
     content:
