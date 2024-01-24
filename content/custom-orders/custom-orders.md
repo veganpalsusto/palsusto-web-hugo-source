@@ -35,6 +35,7 @@ tags:
 [Email](../contact) or [DM](https://www.instagram.com/vegan.palsusto) us with the following information: 
 + **Product and quantity** Conchas will be individually packaged unless you request them unwrapped.
 + **Minimum order: 15 classics. Maximum order: 30**
+  > We can offer custom orders of 10 conchas at the normal price of £3.20 (total = £32 + shipping)
 + **Your details** Name, address with postcode, email and contact number
 + **Delivery or collection date**
 
