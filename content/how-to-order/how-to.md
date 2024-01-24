@@ -26,7 +26,7 @@ tags:
   - Vegan Mexican Bakery
 ---
 ## 1. Delivery dates
-Orders are open as soon as concha days are announced on [Instagram](https://www.instagram.com/vegan.palsustoc). If you do not have Instagram, [email us](../contact/) for delivery dates.
+Orders are open as soon as concha days are announced on [Instagram](https://www.instagram.com/vegan.palsusto). If you do not have Instagram, [email us](../contact/) for delivery dates.
 
 ## 2. Message us with your order (Instagram or Email)
 * [X] Product & Quantity
