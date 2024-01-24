@@ -29,6 +29,10 @@ you can try to do the following on your mac:
 sudo rm -rf $TMPDIR/hugo_cache/
 ```
 
+## Updating modules
+
+Consider going [here](https://github.com/HugoBlox/theme-research-group) and check the `go.mod` file to update the requirements of this one. 
+
 ## Deploy website 
 First, build it to the `public` folder: 
 

@@ -22,6 +22,15 @@ content:
         position: center
         color: '#333'
         brightness: 0.9
+        media: vegan-concha-uk-limited.jpg
+    
+    - title: 
+      content: 
+      align: center
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.9
         media: gallery-vegan-concha-choco.jpg
 
     - title: 
@@ -59,6 +68,15 @@ content:
         color: '#333'
         brightness: 0.9
         media: vegan-concha-valentines.jpg
+
+    - title: 
+      content: 
+      align: center
+      background:
+        position: bottom
+        color: '#333'
+        brightness: 0.9
+        media: vegan-concha-custom-2.jpg
 
     - title: 
       content: 

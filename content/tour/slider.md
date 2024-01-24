@@ -26,17 +26,17 @@ content:
       link:
         icon: instagram
         icon_pack: fab
-        text: Follow us
+        text: Follow us for updates
         url: 'https://www.instagram.com/vegan.palsusto'
 
-    - title: Order from us vegan conchas (and soon more!)
+    - title: Order from us vegan conchas (and more!)
       content: Learn how 
       align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: coffee-with-vegan-conchas-uk.jpg
+        media: vegan-concha-custom-2.jpg
       link:
         icon: envelope
         icon_pack: fas
@@ -50,7 +50,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: contact-us-for-vegan-conchas-in-the-uk.jpg
+        media: vegan-concha-rosca.jpg
       link:
         icon: utensils
         icon_pack: fas

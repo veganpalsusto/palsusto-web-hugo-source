@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Valentine's Day"
+title: "Noche Buena"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "Valentine's Day"
+- "Noche Buena"
 
 # Is this the primary user of the site?
 superuser: false
@@ -66,12 +66,9 @@ tags:
   - Vegan Mexican Bakery
 ---
 
-For Valentine's day, we created these vegan concha pairs of hearts and flowers. 
+For Christmas Day, we created these vegan concha pairs of _Noche buena_ (Pointsettia) flowers
 
-+ The cacao flavour was topped with our [award winning](../../post/23-03-01-palsusto-vca) 
-cacao topping, but with a heart-shaped pattern. 
-+ The vanilla flavour was topped with a pink sugar flower pattern and 
-a green sugar leaf decoration. 
+Both Cacao and Vanilla flavours are topped with a detailed pointsettia flower decoration, known as _Noche buena_.
 
 >We're sure these designs will pop up again! 
 

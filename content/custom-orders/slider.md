@@ -22,7 +22,7 @@ content:
         position: right
         color: '#555'
         brightness: 0.8
-        media: vegan-concha-custom.jpg
+        media: vegan-concha-custom-2.jpg
       # link:
       #   icon: briefcase
       #   icon_pack: fas

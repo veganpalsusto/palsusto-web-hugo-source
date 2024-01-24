@@ -35,7 +35,7 @@ content:
         position: center
         color: '#666'
         brightness: 0.7 
-        media: vegan-concha-custom.jpg
+        media: vegan-concha-custom-2.jpg
       link:
         icon: star
         icon_pack: fas
@@ -56,7 +56,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: vegan-concha-stack.jpg
+        media: vegan-concha-uk-limited.jpg
       # link:
       #   icon: graduation-cap
       #   icon_pack: fas

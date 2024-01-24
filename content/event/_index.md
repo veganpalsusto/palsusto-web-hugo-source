@@ -6,6 +6,6 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
+  caption: 'Check our pop up and events in this page'
   image: ''
 ---
