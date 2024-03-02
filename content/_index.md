@@ -36,7 +36,7 @@ sections:
       text: |
         <br>
         
-        Introducing the UK's first vegan Mexican home bakery, crafting authentic pan dulce (sweet bread). Discover vegan award-winning Conchas, Marranitos, Pan de Muerto, and Rosca de Reyes, reimagined for vegan indulgence. Vegan conchas are our speciality. 
+        Introducing the UK's first vegan Mexican micro bakery, crafting authentic pan dulce (sweet bread). Discover vegan award-winning Conchas, Marranitos, Pan de Muerto, and Rosca de Reyes, reimagined for vegan indulgence. Vegan conchas are our speciality. 
 
   - block: markdown
     content:
