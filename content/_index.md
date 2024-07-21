@@ -5,33 +5,33 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Open for Orders!
-      image:
-        filename: orders.png
-      text: |-
-        <br> 
+  # - block: hero
+  #   content:
+  #     title: Open for Orders!
+  #     image:
+  #       filename: orders.png
+  #     text: |-
+  #       <br> 
 
-        **The Future Market** from 12th-14th July 
+  #       **The Future Market** from 12th-14th July 
 
-        {{% cta cta_link="./event/" cta_text="More info here!" %}}
+  #       {{% cta cta_link="./event/" cta_text="More info here!" %}}
 
-        Normal online orders: **July date** is open for receiving orders. Do not miss out on yours. 
+  #       Normal online orders: **July date** is open for receiving orders. Do not miss out on yours. 
         
-        **London Collection:** July 23rd
+  #       **London Collection:** July 23rd
 
-        **UK Delivery:** July 24th
+  #       **UK Delivery:** July 24th
 
 
-        <br>
+  #       <br>
 
-        {{% cta cta_link="./contact/" cta_text="Contact page →" %}}
-    design:
-      background:
-        gradient_end: '#ECE3DF' #'#607D78' # '#7C5A50'
-        gradient_start: '#A9C9C4' # '#AACCC3'
-        text_color_light: false
+  #       {{% cta cta_link="./contact/" cta_text="Contact page →" %}}
+  #   design:
+  #     background:
+  #       gradient_end: '#ECE3DF' #'#607D78' # '#7C5A50'
+  #       gradient_start: '#A9C9C4' # '#AACCC3'
+  #       text_color_light: false
 
   - block: hero
     content:
