@@ -30,6 +30,11 @@ social:
  - icon: award
    icon_pack: fas
    link: 'https://veganpalsusto.co.uk/post/23-03-01-palsusto-vca/'
+
+ - icon: star
+   icon_pack: fas
+   link: 'https://veganpalsusto.co.uk/post/24-07-14-palsusto-great-taste-vanilla/'
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
