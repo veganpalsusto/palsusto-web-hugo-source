@@ -5,33 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # - block: hero
-  #   content:
-  #     title: Open for Orders!
-  #     image:
-  #       filename: orders.png
-  #     text: |-
-  #       <br> 
+  - block: hero
+    content:
+      title: Orders for December and Preorder Rosca de Reyes!!!!
+      image:
+        filename: orders.png
+      text: |-
+        <br> 
 
-  #       **The Future Market** from 12th-14th July 
+        **Normal Orders** for the 13th and 20th of December 
 
-  #       {{% cta cta_link="./event/" cta_text="More info here!" %}}
+        {{% cta cta_link="https://www.instagram.com/p/DDEwlOsoT8p/?img_index=1" cta_text="More info here!" %}}
 
-  #       Normal online orders: **July date** is open for receiving orders. Do not miss out on yours. 
+        **Christmas Gift Box** with Card Option is available! Also, **preorder Rosca de Reyes!**  They go quickly! 
         
-  #       **London Collection:** July 23rd
+        {{% cta cta_link="https://veganpalsusto.square.site/s/order#most-popular" cta_text="Gift Box and Preorders →" %}}
 
-  #       **UK Delivery:** July 24th
-
-
-  #       <br>
-
-  #       {{% cta cta_link="./contact/" cta_text="Contact page →" %}}
-  #   design:
-  #     background:
-  #       gradient_end: '#ECE3DF' #'#607D78' # '#7C5A50'
-  #       gradient_start: '#A9C9C4' # '#AACCC3'
-  #       text_color_light: false
+    design:
+      background:
+        gradient_end: '#ECE3DF' #'#607D78' # '#7C5A50'
+        gradient_start: '#A9C9C4' # '#AACCC3'
+        text_color_light: false
 
   - block: hero
     content:
