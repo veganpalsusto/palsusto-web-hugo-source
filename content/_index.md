@@ -13,13 +13,9 @@ sections:
       text: |-
         <br> 
 
-        **Normal Orders** for the 13th and 20th of December 
-
-        {{% cta cta_link="https://www.instagram.com/p/DDEwlOsoT8p/?img_index=1" cta_text="More info here!" %}}
-
-        **Christmas Gift Box** with Card Option is available! Also, **preorder Rosca de Reyes!**  They go quickly! 
+        **Preorder Rosca de Reyes!**  They go quickly! 
         
-        {{% cta cta_link="https://veganpalsusto.square.site/s/order#most-popular" cta_text="Gift Box and Preorders →" %}}
+        {{% cta cta_link="https://veganpalsusto.square.site/s/order#most-popular" cta_text="Rosca de Reyes! →" %}}
 
     design:
       background:
