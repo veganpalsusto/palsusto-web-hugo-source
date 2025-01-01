@@ -7,15 +7,19 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Orders for December and Preorder Rosca de Reyes!!!!
+      title: Orders for January!!
       image:
         filename: orders.png
       text: |-
         <br> 
 
-        **Preorder Rosca de Reyes!**  They go quickly! 
+        **Veganuary is here!!**  
         
-        {{% cta cta_link="https://veganpalsusto.square.site/s/order#most-popular" cta_text="Rosca de Reyes! →" %}}
+        We have an online order website. Follow the link below to order! 
+        
+        {{% cta cta_link="https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F" cta_text="Order here →" %}}
+
+        _Let everyone enjoy Mexican pan dulce!_
 
     design:
       background:
