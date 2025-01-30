@@ -11,7 +11,7 @@ headless: true
 weight: 68
 
 title: How to Order
-subtitle: Just a few simple instructions
+subtitle: We are transitioning to orders online. You can still contact us directly.
 
 #content:
   # Choose which groups/teams of users to display.

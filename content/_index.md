@@ -7,13 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Orders for January!!
+      title: Orders for February!!
       image:
         filename: orders.png
       text: |-
         <br> 
 
-        **Veganuary is here!!**  
+        **Celebrate Valentine's with our new Vegan Tres Leches!!!**  
         
         We have an online order website. Follow the link below to order! 
         
@@ -23,8 +23,8 @@ sections:
 
     design:
       background:
-        gradient_end: '#ECE3DF' #'#607D78' # '#7C5A50'
-        gradient_start: '#A9C9C4' # '#AACCC3'
+        gradient_end: '#F6E0E8' # '#ECE3DF' #'#607D78' # '#7C5A50'
+        gradient_start: '#A9C9C4' # '#A9C9C4' # '#AACCC3' # this one is usually fixed as it is the colour of pal susto
         text_color_light: false
 
   - block: hero

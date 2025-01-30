@@ -30,21 +30,14 @@ tags:
 + We recommend booking **as soon as possible** to guarantee our availability to meet your desired collection/delivery date.
 + Custom orders will only be taken if we have availability for your chosen day.
 + Custom orders **must be submitted** at most **2 weeks before** your chosen day.
+> Orders submitted with less time, will be charged an express order fee
 
 ## 2. How to order? 
 [Email](../contact) or [DM](https://www.instagram.com/vegan.palsusto) us with the following information: 
 + **Product and quantity** Conchas will be individually packaged unless you request them unwrapped.
 + **Minimum order: 15 classics. Maximum order: 30**
-  > We can offer custom orders of 10 conchas at the normal price of £3.20 (total = £32 + shipping)
 + **Your details** Name, address with postcode, email and contact number
 + **Delivery or collection date**
-
-| Product           | Description                                | Price per concha |
-|-------------------|--------------------------------------------|------------------:|
-| Classics          | Our classic flavours                       | £3.00            |
-| Single colour     | Vanilla conchas are painted                | Classics + £0.10 |
-| Two/three colours | Vanillas conchas have two or three colours | Classics + £0.20 |
-| Decorated         | Custom decorations                         | Classics + £0.30 |
 
 Feel free to use our handy template below: 
 

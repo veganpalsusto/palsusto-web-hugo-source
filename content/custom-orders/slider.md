@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: We have custom orders available
-      content: Slide to see prices and configurations for direct customers.
+      content: Contact us to know more.
       align: center
       background:
         position: right
@@ -28,38 +28,38 @@ content:
       #   icon_pack: fas
       #   text: Want Pa'l Susto in your shop? 
       #   url: 'https://www.instagram.com/vegan.palsusto'
-    - title: 
-      content: 
-      align: center
-      background:
-        position: right
-        color: '#555'
-        brightness: 0.9
-        media: custom-concha-price-01.png
-    - title: 
-      content: 
-      align: center
-      background:
-        position: right
-        color: '#555'
-        brightness: 0.9
-        media: custom-concha-price-02.png
-    - title: 
-      content: 
-      align: center
-      background:
-        position: right
-        color: '#555'
-        brightness: 0.9
-        media: custom-concha-price-03.png
-    - title: 
-      content: 
-      align: center
-      background:
-        position: right 
-        color: '#555'
-        brightness: 0.9
-        media: custom-concha-price-04.png
+    # - title: 
+    #   content: 
+    #   align: center
+    #   background:
+    #     position: right
+    #     color: '#555'
+    #     brightness: 0.9
+    #     media: custom-concha-price-01.png
+    # - title: 
+    #   content: 
+    #   align: center
+    #   background:
+    #     position: right
+    #     color: '#555'
+    #     brightness: 0.9
+    #     media: custom-concha-price-02.png
+    # - title: 
+    #   content: 
+    #   align: center
+    #   background:
+    #     position: right
+    #     color: '#555'
+    #     brightness: 0.9
+    #     media: custom-concha-price-03.png
+    # - title: 
+    #   content: 
+    #   align: center
+    #   background:
+    #     position: right 
+    #     color: '#555'
+    #     brightness: 0.9
+    #     media: custom-concha-price-04.png
   
 
 ---
