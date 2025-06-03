@@ -17,7 +17,7 @@ sections:
         
         We have an online order website. Follow the link below to order! 
         
-        {{% cta cta_link="https://veganpalsusto.square.site" cta_text="Order here →" %}}
+        {{% cta cta_link="https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F" cta_text="Order here →" %}}
 
         _Let everyone enjoy Mexican pan dulce!_
 
