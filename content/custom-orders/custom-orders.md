@@ -35,7 +35,7 @@ tags:
 ## 2. How to order? 
 [Email](../contact) or [DM](https://www.instagram.com/vegan.palsusto) us with the following information: 
 + **Product and quantity** Conchas will be individually packaged unless you request them unwrapped.
-+ **Minimum order: 15 classics. Maximum order: 30**
++ **Minimum order: 10 items**
 + **Your details** Name, address with postcode, email and contact number
 + **Delivery or collection date**
 
@@ -46,7 +46,7 @@ Hi!
 
 I am [NAME]. I would like a custom order: 
 Product: [CHOOSE FROM: Classics | Single Colour | 2/3 colours | Decorated]
-Quantity: [NUMBER BETWEEN 15 and 30]
+Quantity: [NUMBER]
 
 My details are: 
 [FULL NAME]
@@ -61,19 +61,18 @@ Thank you!
 ## 3. Payment
 After receiving your custom order request, we will share the payment details.
 **Orders must be paid in full**. 
-
 > **Once we've received your payment, your order is confirmed.**
 
 ###  Cancellations 
 To get a full refund, cancellations must be made **72 hours before the chosen date**.
 
 ##  4. Delivery methods
-Currently via Royal Mail Special Delivery Guaranteed by 1pm.
+We have a few options for delivery and London collection: 
++ Within London, collection starting at £15 (guaranteed delivery)
++ Postal via Royal Mail (not guaranteed)
+  + Track24 (1-2 days) £7.90 
+  + Next Day by 1pm (1-2 days) £18.35 
 
-Your order will be freshly produced, packaged & sent to arrive by 1pm on your selected day!
-
-> **Want to collect your order?** 
-> Ask us about collection options.
 
 # Thank you for your support!
 

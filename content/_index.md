@@ -5,27 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: Order online!!
-      image:
-        filename: orders.png
-      text: |-
-        <br> 
+  # - block: hero
+  #   content:
+  #     title: Order online!!
+  #     image:
+  #       filename: orders.png
+  #     text: |-
+  #       <br> 
 
-        **Enjoy your pan dulce on our online shop!**  
+  #       **Enjoy your pan dulce on our online shop!**  
         
-        We have an online order website. Follow the link below to order! 
+  #       We have an online order website. Follow the link below to order! 
         
-        {{% cta cta_link="https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F" cta_text="Order here →" %}}
+  #       {{% cta cta_link="https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F" cta_text="Order here →" %}}
 
-        _Let everyone enjoy Mexican pan dulce!_
+  #       _Let everyone enjoy Mexican pan dulce!_
 
-    design:
-      background:
-        gradient_end: '#F6E0E8' # '#ECE3DF' #'#607D78' # '#7C5A50'
-        gradient_start: '#A9C9C4' # '#A9C9C4' # '#AACCC3' # this one is usually fixed as it is the colour of pal susto
-        text_color_light: false
+  #   design:
+  #     background:
+  #       gradient_end: '#F6E0E8' # '#ECE3DF' #'#607D78' # '#7C5A50'
+  #       gradient_start: '#A9C9C4' # '#A9C9C4' # '#AACCC3' # this one is usually fixed as it is the colour of pal susto
+  #       text_color_light: false
 
   - block: hero
     content:

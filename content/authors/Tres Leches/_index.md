@@ -59,6 +59,8 @@ We are very pleased to bring you the vegan version of this classic mexican cake!
 
 This delicious cake is called _tres leches_, which is a sponge cake soaked in three (oat) milks: condensed, evaporated and whole milk. 
 
+We are offering three exquisite flavours: Traditional Strawberry, Chocolate Abuelita, and Delicious Café de Olla! 
+
 ### Allergen Advice:
 For allergens, including cereals containing gluten, see ingredients in **bold**.
 
