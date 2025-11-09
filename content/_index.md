@@ -60,7 +60,7 @@ sections:
       title: Pop-ups & Events
       subtitle: Upcoming pop-ups and events!
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -79,7 +79,7 @@ sections:
       title: Latest News
       subtitle: 
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''

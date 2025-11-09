@@ -38,10 +38,10 @@ content:
         brightness: 0.7
         media: vegan-concha-custom-2.jpg
       link:
-        icon: envelope
+        icon: shop
         icon_pack: fas
-        text: Contact Us
-        url: ../contact/
+        text: See what's available!
+        url: https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F
 
     - title: Check Our Menu
       content: 'Learn About Ingredients and Allergens!'
