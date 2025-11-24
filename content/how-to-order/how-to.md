@@ -11,7 +11,7 @@ headless: true
 weight: 68
 
 title: How to Order
-subtitle: Out online orders are ready!
+subtitle: Order vegan pan dulce
 
 #content:
   # Choose which groups/teams of users to display.
@@ -25,6 +25,7 @@ tags:
   - Vegan Conchas UK
   - Vegan Mexican Bakery
 ---
+
 ## 1. Delivery dates
 Orders are open as soon as concha days are announced on [Instagram](https://www.instagram.com/vegan.palsusto). If you do not have Instagram, [email us](../contact/) for delivery dates.
 

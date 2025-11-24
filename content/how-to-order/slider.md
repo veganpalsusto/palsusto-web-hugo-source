@@ -15,6 +15,19 @@ design:
 
 content:
   slides:
+    - title: Order vegan pan dulce!
+      content: Check our available dates
+      align: center
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: vegan-concha-custom-2.jpg
+      link:
+        icon: 
+        icon_pack: 
+        text: Order here 
+        url: 'https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F'
     - title: Delivery dates
       content: Will be announced on Instagram
       align: center

@@ -23,8 +23,8 @@ sections:
 
   #   design:
   #     background:
-  #       gradient_end: '#F6E0E8' # '#ECE3DF' #'#607D78' # '#7C5A50'
-  #       gradient_start: '#A9C9C4' # '#A9C9C4' # '#AACCC3' # this one is usually fixed as it is the colour of pal susto
+  #       gradient_end: '#F6E0E8' # '#ECE3DF' #'#607D78' '#7C5A50'
+  #       gradient_start: '#A9C9C4' # '#A9C9C4' '#AACCC3' this one is usually fixed as it is the colour of pal susto
   #       text_color_light: false
 
   - block: hero
@@ -36,6 +36,12 @@ sections:
         <br>
         
         Introducing the UK's first vegan Mexican micro bakery, crafting authentic pan dulce (sweet bread). Discover vegan award-winning Conchas, Marranitos, Pan de Muerto, and Rosca de Reyes, reimagined for vegan indulgence. Vegan conchas are our speciality. 
+
+        <br>
+        
+
+        **Check out this month's pan dulce:**
+        {{% cta cta_link="https://veganpalsusto.square.site/s/order?shipping=true#WOFXTM4FNJUY2B5DB4F3BX7F" cta_text="Order vegan pan dulce! →" %}}
 
   - block: markdown
     content:
